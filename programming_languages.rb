@@ -5,4 +5,3 @@ def reformat_languages(languages)
   language_all.each |value|
   new_languages[value]={}
 end
-end
